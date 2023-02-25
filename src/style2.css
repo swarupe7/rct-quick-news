@@ -1,0 +1,16 @@
+body{
+    /* background:linear-gradient(to top left,#f925d6,#4fb3d4) */
+     background-color: aqua; 
+}
+.carder{
+    background-color: whitesmoke;
+    justify-content: space-between;
+    position: relative;
+    left:40px;
+}
+.gdrid{
+    background-color: black;
+    background-image:url('./images/bub.png') ;
+    background-size: 50px;
+}
+
